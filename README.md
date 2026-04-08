@@ -10,6 +10,7 @@ leetcode
 | [0066-plus-one](https://github.com/Akshara038/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Akshara038/leetcode/tree/main/0136-single-number/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,8 +43,13 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Akshara038/leetcode/tree/main/0067-add-binary/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshara038/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
