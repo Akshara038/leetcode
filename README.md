@@ -15,6 +15,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshara038/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Akshara038/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ leetcode
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshara038/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Akshara038/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Akshara038/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ leetcode
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Akshara038/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/Akshara038/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshara038/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -79,4 +82,8 @@ leetcode
 | [0207-course-schedule](https://github.com/Akshara038/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshara038/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Akshara038/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
