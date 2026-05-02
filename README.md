@@ -12,6 +12,7 @@ leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0136-single-number](https://github.com/Akshara038/leetcode/tree/main/0136-single-number/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Akshara038/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshara038/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
@@ -131,4 +132,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshara038/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshara038/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
