@@ -12,6 +12,7 @@ leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0136-single-number](https://github.com/Akshara038/leetcode/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Akshara038/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Akshara038/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshara038/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -23,6 +24,7 @@ leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Akshara038/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0217-contains-duplicate](https://github.com/Akshara038/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +39,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Akshara038/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
