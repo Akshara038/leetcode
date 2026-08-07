@@ -14,6 +14,7 @@ leetcode
 | [0136-single-number](https://github.com/Akshara038/leetcode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Akshara038/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Akshara038/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Akshara038/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshara038/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
@@ -35,6 +36,7 @@ leetcode
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshara038/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/Akshara038/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
