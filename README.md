@@ -16,6 +16,7 @@ leetcode
 | [0238-product-of-array-except-self](https://github.com/Akshara038/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Akshara038/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshara038/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Akshara038/leetcode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshara038/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ leetcode
 | [0126-word-ladder-ii](https://github.com/Akshara038/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Akshara038/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/Akshara038/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Akshara038/leetcode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
