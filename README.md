@@ -146,4 +146,5 @@ leetcode
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Akshara038/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Akshara038/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Akshara038/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
