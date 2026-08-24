@@ -7,6 +7,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshara038/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Akshara038/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshara038/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -126,6 +127,7 @@ leetcode
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshara038/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Akshara038/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshara038/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akshara038/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
