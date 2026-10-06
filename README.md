@@ -149,6 +149,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Akshara038/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Akshara038/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Akshara038/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Akshara038/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Akshara038/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
