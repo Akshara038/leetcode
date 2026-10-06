@@ -1,5 +1,2 @@
-DELETE p1
-FROM Person p1
-JOIN Person p2
-ON p1.email = p2.email
-AND p1.id > p2.id;
+delete p1 from person p inner join person p1
+on p.email=p1.email and p.id<p1.id
